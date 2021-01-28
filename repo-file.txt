@@ -1,2 +1,4 @@
 This is a file created in GitHub.
 I have now edited this remotely.
+
+This line of code was created in a 'refactor' branch.
