@@ -2,3 +2,5 @@ This is a file created in GitHub.
 I have now edited this remotely.
 
 This line of code was created in a 'refactor' branch.
+
+This line of code was created after the previous, within the refactor' branch. The first changes were committed. Now I can commit these.
