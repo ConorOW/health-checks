@@ -1,2 +1,2 @@
 This is a file created in GitHub.
-I have now edited this locally.
+I have now edited this remotely.
